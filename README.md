@@ -19,7 +19,7 @@ Include a list of the tools used in the project:
 4. Git
 5. Git Bash
 
-<a class="anchor" id="about the project"></a>
+<a class="anchor" id="installation_instructions"></a>
 >## Installation Instructions
 1. Install Git Hub
 2. Install Git
